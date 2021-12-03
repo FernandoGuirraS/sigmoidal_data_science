@@ -14,7 +14,7 @@ Veja os projetos desenvolvidos por mim no decorrer do curso:
 
 * **Análise de dados do Airbnb para a Cidade do México:** https://bit.ly/3oVdZIR
 * **Análise de dados do Bitcoin com Pandas:** https://bit.ly/3d914xq
-* Projeto 3
+* **Violência no Rio de Janeiro:** https://bit.ly/3xNwHq2
 * Projeto 4
 * Projeto 5
 * Projeto 6
