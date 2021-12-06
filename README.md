@@ -12,7 +12,7 @@ Sou Matemático Industrial, formado pela Universidade Federal do Espírito Santo
 ## Projetos:
 Veja os projetos desenvolvidos por mim no decorrer do curso:
 
-* **Análise de dados do Airbnb para a Cidade do México:** https://bit.ly/3oVdZIR
+* **Análise de dados do Airbnb para a Cidade do México:** https://bit.ly/3orKG1H
 * **Análise de dados do Bitcoin com Pandas:** https://bit.ly/3d914xq
 * **Violência no Rio de Janeiro:** https://bit.ly/3xNwHq2
 * Projeto 4
