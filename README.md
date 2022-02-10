@@ -16,8 +16,7 @@ Veja os projetos desenvolvidos por mim no decorrer do curso:
 * **Análise de dados do Bitcoin com Pandas:** https://bit.ly/3d914xq
 * **Violência no Rio de Janeiro:** https://bit.ly/3xNwHq2
 * **Analisando dados do COVID-19 no Brasil e no Mundo:** https://bit.ly/31Ri8WZ
-* Projeto 5
-* Projeto 6
+* **Fraudes em Cartões de Crédito:** https://bit.ly/3rFwHXN
 ---
 ### Links:
 [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@guirradatatec) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fernandoguirra)
